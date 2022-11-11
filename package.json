@@ -1,7 +1,24 @@
 {
-  "scripts": { "start": "node server.js" },
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
     "moment": "^2.29.3"
-  }
+  },
+  "name": "desafio3",
+  "description": "Bienvenidos! Este repositorio forma parte del desafio 3 del curso de programación Backend de Coderhouse.",
+  "version": "1.0.0",
+  "main": "carrito.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicobernal/backend_ej3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maicobernal/backend_ej3/issues"
+  },
+  "homepage": "https://github.com/maicobernal/backend_ej3#readme"
 }
